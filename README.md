@@ -6,6 +6,8 @@
 docker-compose up
 ```
 
+Then access `localhost:3000`
+
 ## Contact
 
 min@woodstock.club
